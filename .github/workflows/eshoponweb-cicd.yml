@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: f496dc44-a711-4eb5-acc8-0a00c23c0c33
-  WEBAPP-NAME: azlearning
+  WEBAPP-NAME: azlearningbohatskyi
 
 
 jobs:
